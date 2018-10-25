@@ -1,5 +1,3 @@
-import json
-from urllib.request import Request
 from imdb import IMDb
 import praw
 import configparser
